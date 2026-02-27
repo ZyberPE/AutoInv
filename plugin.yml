@@ -1,0 +1,10 @@
+name: AutoInv
+main: AutoInv\Main
+version: 1.0.0
+api: 5.0.0
+author: ZyberPE
+
+permissions:
+  autoinv.use:
+    description: Enables Auto Inventory
+    default: true
