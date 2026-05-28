@@ -6,5 +6,5 @@ author: ZyberPE
 
 permissions:
   autoinv.use:
-    description: Enables Auto Inventory
+    description: Enables Auto Inventory for all players
     default: true
